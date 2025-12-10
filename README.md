@@ -1,4 +1,4 @@
-# ELT Pipeline with Snowflake, DBT, and Airflow
+# PipelineXcelerator – ETL Pipeline with Snowflake, DBT 
 
 ![alt text](./etl_pipeline.jpeg)
 
@@ -91,9 +91,4 @@ data_pipeline/ ├── models/ │ ├── staging/ │ └── marts/ ├
 ## Conclusion
 
 This project demonstrates how to create an ELT pipeline using modern tools like DBT, Snowflake, and Airflow. It covers the complete workflow from environment setup to orchestration with Airflow. The result is a scalable and reusable ELT pipeline, ready for deployment in a production environment.
-
-## Referances
-This project was build with a hand-on tutorial, with adaptation for Widnows and another changes needed, original [video](https://www.youtube.com/watch?v=OLXkGB7krGo&t=729s) 
-## License
-This project is open-source and available under the [MIT License](https://opensource.org/license/MIT).
 
